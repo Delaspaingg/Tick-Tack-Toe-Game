@@ -1,5 +1,7 @@
 # Tick Tack Toe-python
 
+ALL IS IN SPANISH BECAUSE I AM OF BARCELONA
+
 Diviertete jugando al clasico juego de OXO (Tick tack toe) 
 Esta "copia" a sido reproducida y generada por Delaspain a traves del lenguaje de programación Python, cualquier copia o clonación será reportada y borrada.
 Se intentaran aportar mas funciones, opciones con fin de mejorar el juego. 
